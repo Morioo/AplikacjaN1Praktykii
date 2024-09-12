@@ -1,0 +1,6 @@
+ala: 1
+kota: 1
+ma: 1
+psa: 1
+psy: 1
+2:  1
